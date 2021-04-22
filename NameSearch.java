@@ -1,4 +1,4 @@
-package Assignment1;
+package laxmiCSC123Sp21Ass1;
 import java.io.*;
 import java.util.*;
 
